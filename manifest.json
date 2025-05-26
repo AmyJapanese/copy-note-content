@@ -1,6 +1,6 @@
 {
-  "id": "copy-from-status-bar",
-  "name": "Copy From Status Bar",
+  "id": "copy-note-content",
+  "name": "Copy Note Content",
   "version": "1.0.0",
   "minAppVersion": "0.12.0",
   "description": "Add a status bar icon to copy current note content",
