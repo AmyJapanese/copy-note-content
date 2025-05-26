@@ -1,4 +1,4 @@
-# Copy From Sidebar
+# Copy Note Content
 
 This Obsidian plugin adds a sidebar button that copies the full content of the current note to the clipboard.
 
